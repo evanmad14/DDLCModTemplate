@@ -15,7 +15,7 @@ label start:
     # Each of the girls' names before the MC learns their name throughout ch0.
     $ s_name = "Sayori"
     $ m_name = "Monika"
-    $ n_name = "Natsuki"
+    $ n_name = "gabby"
     $ y_name = "Yuri"
 
     $ quick_menu = True
